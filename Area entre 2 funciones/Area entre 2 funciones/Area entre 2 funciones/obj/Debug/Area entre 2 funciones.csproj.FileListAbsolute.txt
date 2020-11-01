@@ -1,0 +1,20 @@
+D:\ESCOM\Calculo\Area entre 2 funciones\Area entre 2 funciones\Area entre 2 funciones\bin\Debug\Area entre 2 funciones.exe.config
+D:\ESCOM\Calculo\Area entre 2 funciones\Area entre 2 funciones\Area entre 2 funciones\bin\Debug\Area entre 2 funciones.exe
+D:\ESCOM\Calculo\Area entre 2 funciones\Area entre 2 funciones\Area entre 2 funciones\bin\Debug\Area entre 2 funciones.pdb
+D:\ESCOM\Calculo\Area entre 2 funciones\Area entre 2 funciones\Area entre 2 funciones\obj\Debug\Area entre 2 funciones.csprojResolveAssemblyReference.cache
+D:\ESCOM\Calculo\Area entre 2 funciones\Area entre 2 funciones\Area entre 2 funciones\obj\Debug\Area_entre_2_funciones.Form1.resources
+D:\ESCOM\Calculo\Area entre 2 funciones\Area entre 2 funciones\Area entre 2 funciones\obj\Debug\Area_entre_2_funciones.Properties.Resources.resources
+D:\ESCOM\Calculo\Area entre 2 funciones\Area entre 2 funciones\Area entre 2 funciones\obj\Debug\Area entre 2 funciones.csproj.GenerateResource.Cache
+D:\ESCOM\Calculo\Area entre 2 funciones\Area entre 2 funciones\Area entre 2 funciones\obj\Debug\Area entre 2 funciones.csproj.CoreCompileInputs.cache
+D:\ESCOM\Calculo\Area entre 2 funciones\Area entre 2 funciones\Area entre 2 funciones\obj\Debug\Area entre 2 funciones.exe
+D:\ESCOM\Calculo\Area entre 2 funciones\Area entre 2 funciones\Area entre 2 funciones\obj\Debug\Area entre 2 funciones.pdb
+C:\Users\Luis\Desktop\Area entre 2 funciones\Area entre 2 funciones\Area entre 2 funciones\obj\Debug\Area entre 2 funciones.csprojResolveAssemblyReference.cache
+C:\Users\Luis\Desktop\Area entre 2 funciones\Area entre 2 funciones\Area entre 2 funciones\obj\Debug\Area_entre_2_funciones.Form1.resources
+C:\Users\Luis\Desktop\Area entre 2 funciones\Area entre 2 funciones\Area entre 2 funciones\obj\Debug\Area_entre_2_funciones.Properties.Resources.resources
+C:\Users\Luis\Desktop\Area entre 2 funciones\Area entre 2 funciones\Area entre 2 funciones\obj\Debug\Area entre 2 funciones.csproj.GenerateResource.Cache
+C:\Users\Luis\Desktop\Area entre 2 funciones\Area entre 2 funciones\Area entre 2 funciones\obj\Debug\Area entre 2 funciones.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Desktop\Area entre 2 funciones\Area entre 2 funciones\Area entre 2 funciones\obj\Debug\Area entre 2 funciones.exe
+C:\Users\Luis\Desktop\Area entre 2 funciones\Area entre 2 funciones\Area entre 2 funciones\obj\Debug\Area entre 2 funciones.pdb
+C:\Users\Luis\Desktop\Area entre 2 funciones\Area entre 2 funciones\Area entre 2 funciones\bin\Debug\Area entre 2 funciones.exe.config
+C:\Users\Luis\Desktop\Area entre 2 funciones\Area entre 2 funciones\Area entre 2 funciones\bin\Debug\Area entre 2 funciones.exe
+C:\Users\Luis\Desktop\Area entre 2 funciones\Area entre 2 funciones\Area entre 2 funciones\bin\Debug\Area entre 2 funciones.pdb

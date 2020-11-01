@@ -1,0 +1,10 @@
+D:\ESCOM\Calculo\Grafica3\Area\Area\bin\Debug\Area.exe.config
+D:\ESCOM\Calculo\Grafica3\Area\Area\bin\Debug\Area.exe
+D:\ESCOM\Calculo\Grafica3\Area\Area\bin\Debug\Area.pdb
+D:\ESCOM\Calculo\Grafica3\Area\Area\obj\Debug\Area.csprojResolveAssemblyReference.cache
+D:\ESCOM\Calculo\Grafica3\Area\Area\obj\Debug\Area.Form1.resources
+D:\ESCOM\Calculo\Grafica3\Area\Area\obj\Debug\Area.Properties.Resources.resources
+D:\ESCOM\Calculo\Grafica3\Area\Area\obj\Debug\Area.csproj.GenerateResource.Cache
+D:\ESCOM\Calculo\Grafica3\Area\Area\obj\Debug\Area.csproj.CoreCompileInputs.cache
+D:\ESCOM\Calculo\Grafica3\Area\Area\obj\Debug\Area.exe
+D:\ESCOM\Calculo\Grafica3\Area\Area\obj\Debug\Area.pdb
